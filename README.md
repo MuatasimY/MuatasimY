@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MuatasimY
-- 👀 I’m interested in learning flutter
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on flutter developer to help me and guide me how to build some projects
+- 👋 Hi, I’m @Muatasim
+- 👀 I’m interested in Full stack web 
+- 🌱 I’m currently learning backend for web applications,
 - 📫 How to reach me is by email : almoatasemammar@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
